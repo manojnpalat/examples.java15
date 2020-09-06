@@ -1,0 +1,1 @@
+record Entry(String name, int age) {}
